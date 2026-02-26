@@ -1,5 +1,0 @@
-{
-  "name": "kvrzha-berber",
-  "scripts": { "start": "node server.js" },
-  "dependencies": { "express": "*", "cors": "*", "uuid": "*" }
-}
